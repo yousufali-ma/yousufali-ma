@@ -28,4 +28,4 @@ The Problem: Tracking SOC 1 / SOC 2 report expirations for hundreds of third-par
 
 The Solution: An automated tracking module that flags expired vendor reports and highlights gaps in Complementary User Entity Controls for the Vendor Management Office.
 
-📫 Contact: yousufali.ma@gmail.com | Open to Junior/Associate IT Audit roles in the UK.
+📫 Contact: yousufali.ma@proton.me | Open to Junior/Associate IT Audit roles in the UK.
